@@ -1,0 +1,5 @@
+fasdasdf02156465270
+Ders{dersKodu='ingilizce', dersAdi='0564', dersDonemi='2', ogretmen='emrah'}
+Ders{dersKodu='almanca', dersAdi='38', dersDonemi='1', ogretmen='afd'}
+Ders{dersKodu='almanca', dersAdi='38', dersDonemi='1', ogretmen='afd'}
+Ders{dersKodu='21', dersAdi='asd asd', dersDonemi='12', ogretmen=' asfd a'}

@@ -1,0 +1,6 @@
+60aza saDers{dersKodu='21', dersAdi='asd asd', dersDonemi='12', ogretmen=' asfd a'}bas
+OgretimGorevlisi[frame0,860,420,200x200,invalid,hidden,layout=java.awt.BorderLayout,title=Genel Form,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+OgretimGorevlisi[frame0,860,420,200x200,invalid,hidden,layout=java.awt.BorderLayout,title=Genel Form,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+OgretimGorevlisi[frame0,860,420,200x200,invalid,hidden,layout=java.awt.BorderLayout,title=Genel Form,resizable,normal,defaultCloseOperation=EXIT_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]
+60aza saDers{dersKodu='21', dersAdi='asd asd', dersDonemi='12', ogretmen=' asfd a'}bas
+60aza saDers{dersKodu='21', dersAdi='asd asd', dersDonemi='12', ogretmen=' asfd a'}bas

@@ -1,0 +1,5 @@
+Ogrenci{ogrenciNo='sfad', ogrenciAd='a', ogrenciSoyad='asdf', ogrenciBolum='asdf', ogrenciDersler=[]}
+Ogrenci{ogrenciNo='sfad', ogrenciAd='a', ogrenciSoyad='asdf', ogrenciBolum='asdf', ogrenciDersler=[]}
+Ogrenci{ogrenciNo='270', ogrenciAd='fasd', ogrenciSoyad='asdf', ogrenciBolum='02156465', ogrenciDersler=[]}
+Ogrenci{ogrenciNo='260', ogrenciAd='fasd', ogrenciSoyad='asdf', ogrenciBolum='02156465', ogrenciDersler=[]}
+Ogrenci{ogrenciNo='230', ogrenciAd='fasd', ogrenciSoyad='asdf', ogrenciBolum='02156465', ogrenciDersler=[]}
